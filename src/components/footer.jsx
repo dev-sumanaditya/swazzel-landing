@@ -11,10 +11,10 @@ const Footer = () => {
                     </div>
                     <div className='flex flex-col md:flex-row gap-10 md:gap-4'>
                         <div className=''>
-                            <a href="https://chicankari.com" target="_blank" rel="noreferrer" className="px-10 py-3 border text-md hover:bg-white hover:bg-opacity-10 duration-200">Visit Chicankari Store</a>
+                            <a href="https://chicankari.com" target="_blank" rel="noreferrer" className="px-10 pb-3 pt-4 border text-md hover:bg-white hover:bg-opacity-10 duration-200">Visit Chicankari Store</a>
                         </div>
                         <div className=''>
-                            <a href="https://swatisahay.com" target="_blank" rel="noreferrer" className="px-10 py-3 border text-md hover:bg-white hover:bg-opacity-10 duration-200">Visit label by Swati Sahay</a>
+                            <a href="https://swatisahay.com" target="_blank" rel="noreferrer" className="px-10 pb-3 pt-4 border text-md hover:bg-white hover:bg-opacity-10 duration-200">Visit label by Swati Sahay</a>
                         </div>
                     </div>
                 </div>
